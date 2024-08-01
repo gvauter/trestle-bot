@@ -1,4 +1,4 @@
-# Diagrams: Create Content
+# Create Content
 
 ## Context
 

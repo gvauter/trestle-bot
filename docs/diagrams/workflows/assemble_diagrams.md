@@ -1,4 +1,4 @@
-# Diagrams: Assemble
+# Assemble
 
 ## Context
 
