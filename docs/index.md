@@ -45,3 +45,5 @@ Container images are available in `quay.io`:
 ```bash
 podman run -v $(pwd):/data -w /data quay.io/continuouscompliance/trestle-bot:<tag>
 ```
+
+## Test
